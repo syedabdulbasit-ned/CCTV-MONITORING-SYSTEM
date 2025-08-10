@@ -1,2 +1,2 @@
-# SnapTrack
-A smart system for managing and monitoring attendance and surveillance data with real-time capabilities.
+# CCTV Monitoring System
+A  system that automates attendance tracking and real-time monitoring using CCTV footage
